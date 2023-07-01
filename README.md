@@ -26,7 +26,7 @@ course if it is selected
 - if the User is valid a new page with the info will pop, else a message will be displayed
 - can enter the course name and view a more complex detail of the course
 
-  ![Screenshot 2023-07-01 211505](https://github.com/StefanIv21/Electronic-Grade-Book/assets/94042909/31e40ce4-a174-4a21-b528-84eaf016c450)
+    ![Screenshot 2023-07-01 211505](https://github.com/StefanIv21/Electronic-Grade-Book/assets/94042909/31e40ce4-a174-4a21-b528-84eaf016c450)
 
 
 ### Teacher and Assistant page
@@ -34,16 +34,25 @@ course if it is selected
 - pressing the button "validare" the grades will validate to the GradeBook and will appear for Students and Parents
 - if the grades have been validated and the user returns to the account,nothing will appear in the grades section  and he will no longer be able to press the validation button
 
+    ![Screenshot 2023-07-01 211737](https://github.com/StefanIv21/Electronic-Grade-Book/assets/94042909/f0a24d6a-a0aa-4f5d-8b6a-33b9b118d2a1)
+
 ## Student page
 - upon selecting one of the courses in which the student is signed up, details related to the students's situation in that particular course are provided
+  
+    ![Screenshot 2023-07-01 212203](https://github.com/StefanIv21/Electronic-Grade-Book/assets/94042909/60b8acae-41e4-43f8-a5ef-f6e03002116c)
+
 
 ## Parent page
 - added a "check" button in which will display the received notifications (each parent sees the child's school situation)
+
+    ![Screenshot 2023-07-01 212351](https://github.com/StefanIv21/Electronic-Grade-Book/assets/94042909/5783ab71-5060-4224-9aa6-719018a12c39)
 
 ## CourseInfo page
 - The page displays in detail all the data about a course, the list of students, assistants, grades, as well as the best student of at the course
 - Can add a new student to an existing group
 = Can add an assistant to a new group
 - added a button where can back up the notes and a button that undo the notes
+
+![Screenshot 2023-07-01 212612](https://github.com/StefanIv21/Electronic-Grade-Book/assets/94042909/6836909b-3ce6-4685-bf8a-a898cce09f75)
 
   
