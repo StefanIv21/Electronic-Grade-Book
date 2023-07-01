@@ -24,6 +24,10 @@ course if it is selected
  ### Login page
 - insert the first name to user and last name to password and press Sign in to display information about the user
 - if the User is valid a new page with the info will pop, else a message will be displayed
+- can enter the course name and view a more complex detail of the course
+
+  ![Screenshot 2023-07-01 211505](https://github.com/StefanIv21/Electronic-Grade-Book/assets/94042909/31e40ce4-a174-4a21-b528-84eaf016c450)
+
 
 ### Teacher and Assistant page
 - the teacher's courses are displayed and the grade to validate
