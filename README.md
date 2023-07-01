@@ -36,18 +36,18 @@ course if it is selected
 
     ![Screenshot 2023-07-01 211737](https://github.com/StefanIv21/Electronic-Grade-Book/assets/94042909/f0a24d6a-a0aa-4f5d-8b6a-33b9b118d2a1)
 
-## Student page
+### Student page
 - upon selecting one of the courses in which the student is signed up, details related to the students's situation in that particular course are provided
   
     ![Screenshot 2023-07-01 212203](https://github.com/StefanIv21/Electronic-Grade-Book/assets/94042909/60b8acae-41e4-43f8-a5ef-f6e03002116c)
 
 
-## Parent page
+### Parent page
 - added a "check" button in which will display the received notifications (each parent sees the child's school situation)
 
     ![Screenshot 2023-07-01 212351](https://github.com/StefanIv21/Electronic-Grade-Book/assets/94042909/5783ab71-5060-4224-9aa6-719018a12c39)
 
-## CourseInfo page
+### CourseInfo page
 - The page displays in detail all the data about a course, the list of students, assistants, grades, as well as the best student of at the course
 - Can add a new student to an existing group
 = Can add an assistant to a new group
